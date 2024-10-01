@@ -1,0 +1,21 @@
+a {
+	color: #707070;
+	text-decoration: none;
+	letter-spacing: 0.2px;
+	border-color:#707070 ;
+}
+img{
+	top: 52px;
+    left: 140px;
+    height: 95px;
+}
+
+.about project {
+	top: 73px;
+    left: 969px;
+    width: 189px;
+    height: 27px;
+	}
+ul {
+	list-style: none;
+}
